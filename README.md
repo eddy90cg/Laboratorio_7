@@ -51,171 +51,172 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
 
-* Proceso:
- Al realizar la explicacion previamiente señalada en la simulacion realizada para la experimentacion en el software de simulacion proteus observamos que:
+* PROCESO:
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RC%20PROTEUS.jpg)
+  Al realizar la explicacion previamiente señalada en la simulacion realizada para la experimentacion en el software de simulacion proteus observamos que:
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RL%20PROTEUS.jpg)
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RC%20PROTEUS.jpg)
 
-* Explicacion:
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RL%20PROTEUS.jpg)
 
-* 1. Construya en el protoboard el circuito mostrado en la Figura 1.
+* EXPLICACION:
 
-
-     a. Utilice el osciloscopio para observar el voltaje 𝑉௢ variando la frecuencia entre los
-     valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los valores pico de las ondas observadas.
-  
-     b. Utilice un multímetro para medir el voltaje 𝑉௢ variando la frecuencia entre los valores
-     de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
-  
-     c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-     frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
-
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%201%20circuito.jpg)
+ * 1. Construya en el protoboard el circuito mostrado en la Figura 1.
 
 
-* 2. Construya el circuito mostrado en la Figura 2
+      a. Utilice el osciloscopio para observar el voltaje 𝑉௢ variando la frecuencia entre los
+      valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los valores pico de las ondas observadas.
+
+      b. Utilice un multímetro para medir el voltaje 𝑉௢ variando la frecuencia entre los valores
+      de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
+
+      c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+      frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
+
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%201%20circuito.jpg)
 
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%202%20circuito.jpg)
+ * 2. Construya el circuito mostrado en la Figura 2
 
 
-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%202%20circuito.jpg)
+
+
+ Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
-* Resultados:
+* RESULTADOS:
 
-* Los resultados y comportamiento visto mediante los diferentes tipos de circuito es atraves de un osciloscopio, se observa que:
+ * Los resultados y comportamiento visto mediante los diferentes tipos de circuito es atraves de un osciloscopio, se observa que:
 
-Frecuencia 100 Hz - Vp = 10 v - Circuito Rc:
+ Frecuencia 100 Hz - Vp = 10 v - Circuito Rc:
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrc%20100%20hz.jpg)
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrc%20100%20hz.jpg)
 
-Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
+ Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrl%20100%20hz.jpg)
-
-
-* Se observa los resultados:
-
-  *Para  cada  uno  de los  circuitos anteriores, elabore  una  tabla  con  los  resultados de las diferentes  mediciones  de  voltaje  realizadas  con  el  osciloscopio,   multímetro  y  las calculadas  en  el  trabajo  preparatorio.  Compare  y  comente  los  resultados  obtenidos tomando en cuenta las distintas frecuencias utilizadas.  Voltaje de pico = 10 [V]  
-
-    * Capacitores:
-  
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.43%20PM.jpeg)
-  
-    * Inductores:
-
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.23%20PM.jpeg)
-
-  *Corriente  y el voltaje realizados con el multímetro para calcular la reactancia  𝑋= 𝑉𝑜/𝐼  en cada una de las frecuencias y también para calcular los valores de 𝐿𝑒𝑞 y  𝐶𝑒𝑞 según sea el caso.  Anote  los  resultados  en  una  tabla  haciendo  constar  también  las  frecuencias. Comente los resultados.  𝑍=𝑅 + 𝑗𝑋
-
-    * Reactancia Circuito RC:
-
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rc.jpg)
-  
-    * Reactancia Circuito RL:
-
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rl.jpg)
-  
-  
-
- * Calculos correspondientes para el experimento :
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrl%20100%20hz.jpg)
 
 
-    * Revisar la seccion ANEXOS
+ * Se observa los resultados:
+
+   *Para  cada  uno  de los  circuitos anteriores, elabore  una  tabla  con  los  resultados de las diferentes  mediciones  de  voltaje  realizadas  con  el  osciloscopio,   multímetro  y  las calculadas  en  el  trabajo  preparatorio.  Compare  y  comente  los  resultados  obtenidos tomando en cuenta las distintas frecuencias utilizadas.  Voltaje de pico = 10 [V]  
+
+     * Capacitores:
+
+   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.43%20PM.jpeg)
+
+     * Inductores:
+
+   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.23%20PM.jpeg)
+
+   *Corriente  y el voltaje realizados con el multímetro para calcular la reactancia  𝑋= 𝑉𝑜/𝐼  en cada una de las frecuencias y también para calcular los valores de 𝐿𝑒𝑞 y  𝐶𝑒𝑞 según sea el caso.  Anote  los  resultados  en  una  tabla  haciendo  constar  también  las  frecuencias. Comente los resultados.  𝑍=𝑅 + 𝑗𝑋
+
+     * Reactancia Circuito RC:
+
+   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rc.jpg)
+
+     * Reactancia Circuito RL:
+
+   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rl.jpg)
+
+
+
+  * Calculos correspondientes para el experimento :
+
+
+     *  ![](https://github.com/eddy90cg/lab5-fce/blob/main/Anexos/CamScanner%2002-23-2021%2012.37.pdf)
 
 * RESPUESTA A INTERROGANTES:
 
-* 1. Justifique los errores cometidos en las mediciones.
+ * 1. Justifique los errores cometidos en las mediciones.
 
-  Es posible que los errores de mediciones deban a las tolerancias de error propias de los elementos del circuito o a los equipos de medición porque los datos obtenidos si   tienden a ser los correctos.
-
-
-* 2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
-
-  Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase  de  transición  y  fase  de  continua.  En  la  fase  de  estabilización,  se  producen  los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el circuito.  
-  
-  𝑖(𝑡)=0
-  
-  𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡) =0 ; 𝑣(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
-  
-  En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito. 
-  
-  𝑣(𝑡)=𝐿 * (𝑑𝑖(𝑡)/𝑑𝑡) =0  ; 𝑖(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
+   Es posible que los errores de mediciones deban a las tolerancias de error propias de los elementos del circuito o a los equipos de medición porque los datos obtenidos si   tienden a ser los correctos.
 
 
-* 3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+ * 2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-  El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido.
-  
-  𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡) 
-  
-  Entonces se  puede representar al capacitor como un elemento pasivo más en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente  alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
-  
-   𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡)
-   
-   Entonces se  puede representar al inductor como un elemento pasivo más en el circuito. 
-  
+   Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase  de  transición  y  fase  de  continua.  En  la  fase  de  estabilización,  se  producen  los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el circuito.  
 
-* 4. ¿Qué cree usted que ocurriría con el voltaje 𝑉௢ y la corriente de la resistencia en los
-circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
-distintos?
-  
-  Lo único que sucedería es que los valores de Vₒ varíen en función de que tanto se altere la impedancia 𝑋 del valor total de impedancia 
-  
-  𝑍 = 𝑅 + 𝑗𝑋
-  
-  Si  la  impedancia capacitiva  o  resistiva  resulta  ser menor,  la  caída  de  tensión  Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
-  
+   𝑖(𝑡)=0
 
-* 5. ¿Qué son los valores eficaces de voltaje y corriente?
-  
-  Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equivalentes  en corriente  continua  es  decir  tendrá  el  mismo  comportamiento  respecto  a  potencia suministrada en el circuito. 
-  
-  𝐹=𝑉𝑎𝑙𝑜𝑟 𝑒𝑓𝑖𝑐𝑎𝑧 ; 𝑓(𝑡)=𝐹𝑢𝑛𝑐𝑖𝑜𝑛 𝑑𝑒 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑜 𝑐𝑜𝑟𝑟𝑒𝑖𝑛𝑡𝑒; 𝑇=𝑝𝑒𝑟𝑖𝑜𝑑𝑜
-  
-  𝐹=(√(1/𝑇)) * ∫(𝑓(𝑡)^2)𝑑𝑡 [𝑡0;+𝑇𝑡0] 
-  
-  𝐹=𝑓(𝑡)/√2
+   𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡) =0 ; 𝑣(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
+
+   En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito. 
+
+   𝑣(𝑡)=𝐿 * (𝑑𝑖(𝑡)/𝑑𝑡) =0  ; 𝑖(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
+
+
+ * 3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+   El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido.
+
+   𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡) 
+
+   Entonces se  puede representar al capacitor como un elemento pasivo más en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente  alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
+
+    𝑖(𝑡)=𝐶 * (𝑑𝑣(𝑡)/𝑑𝑡)
+
+    Entonces se  puede representar al inductor como un elemento pasivo más en el circuito. 
+
+
+ * 4. ¿Qué cree usted que ocurriría con el voltaje 𝑉௢ y la corriente de la resistencia en los
+ circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+ distintos?
+
+   Lo único que sucedería es que los valores de Vₒ varíen en función de que tanto se altere la impedancia 𝑋 del valor total de impedancia 
+
+   𝑍 = 𝑅 + 𝑗𝑋
+
+   Si  la  impedancia capacitiva  o  resistiva  resulta  ser menor,  la  caída  de  tensión  Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
+
+
+ * 5. ¿Qué son los valores eficaces de voltaje y corriente?
+
+   Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equivalentes  en corriente  continua  es  decir  tendrá  el  mismo  comportamiento  respecto  a  potencia suministrada en el circuito. 
+
+   𝐹=𝑉𝑎𝑙𝑜𝑟 𝑒𝑓𝑖𝑐𝑎𝑧 ; 𝑓(𝑡)=𝐹𝑢𝑛𝑐𝑖𝑜𝑛 𝑑𝑒 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑜 𝑐𝑜𝑟𝑟𝑒𝑖𝑛𝑡𝑒; 𝑇=𝑝𝑒𝑟𝑖𝑜𝑑𝑜
+
+   𝐹=(√(1/𝑇)) * ∫(𝑓(𝑡)^2)𝑑𝑡 [𝑡0;+𝑇𝑡0] 
+
+   𝐹=𝑓(𝑡)/√2
   
 # 5. VIDEO
 
-*  link de  youtube: --------------
+ *  link de  youtube: --------------
 
 # 6.	CONCLUSIONES
 
-* Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva 
- 
-    Z = R +j(Xl - Xc). 
+ * Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva 
 
-* Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos.
+     Z = R +j(Xl - Xc). 
 
-* El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
+ * Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos.
 
-* Mientras mayor sea la frecuencia la impedancia capacitiva será menor. 
+ * El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
 
-* Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
+ * Mientras mayor sea la frecuencia la impedancia capacitiva será menor. 
+
+ * Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
 
 # 7.	BIBLIOGRAFÍA
 
-Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
+ Rodríguez, H. (19 de Octubre de 2017). lifeder. Obtenido de
 
-     https://www.lifeder.com/leyes-kirchhoff/
+      https://www.lifeder.com/leyes-kirchhoff/
 
-Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
+ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 
-     https://electronicacompleta.com/leyes-de-kirchhoff/
+      https://electronicacompleta.com/leyes-de-kirchhoff/
 
-Recuperado de:
+ Recuperado de:
 
-     https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+      https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
-RÚBRICA
+ RÚBRICA
 
-   ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
+    ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
 
 
 
