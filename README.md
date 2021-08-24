@@ -126,7 +126,7 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
   * Calculos correspondientes para el experimento :
 
 
-     *  ![](https://github.com/eddy90cg/lab5-fce/blob/main/Anexos/CamScanner%2002-23-2021%2012.37.pdf)
+   ![](https://github.com/eddy90cg/lab5-fce/blob/main/Anexos/CamScanner%2002-23-2021%2012.37.pdf)
 
 * RESPUESTA A INTERROGANTES:
 
