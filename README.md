@@ -127,6 +127,11 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 
 
        https://github.com/eddy90cg/Laboratorio_7/blob/main/Anexos/CamScanner%2002-23-2021%2012.37.pdf
+       
+       * Formula a aplicar para el calculo del ERROR:
+\mathrm{Porcentaje\ de\ Error\ en\ el\ Voltaje:} \\ \\ %\ Error = \frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times 100
+
+\mathrm{Porcentaje\ de\ Error\ en\ la\ Corriente:} \\ \\ %\ Error = \frac{I_T(Teorico)-I_T(Practico)}{I_T(Teorico)}\times 100
 
 * RESPUESTA A INTERROGANTES:
 
