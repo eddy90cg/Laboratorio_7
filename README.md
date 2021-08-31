@@ -51,7 +51,27 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
 
-* PROCESO:
+Para realizar este laboratorio debes seguir los siguientes pasos:
+
+* Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+ 
+* Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+* Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+* Equipos y Materiales necesarios:
+
+| **Cantidad** | **Elemento** |
+| :---: | :---: |
+| 1 | Generador de Señales |
+| 1 | Fuente DC |
+| 1 | Osciloscopio | 
+| 1 | Multímetro | 
+| 2 | Resistor de <img src="https://latex.codecogs.com/svg.latex?100\Omega" title="100\Omega" /> | 
+| 2 | Capacitores de <img src="https://latex.codecogs.com/svg.latex?10\mu&space;F" title="10\mu F" /> | 
+| 2 | Bobinas de <img src="https://latex.codecogs.com/svg.latex?100mH" title="100mH" /> | 
+| 1 | Protoboard | 
+
 
   Al realizar la explicacion previamiente señalada en la simulacion realizada para la experimentacion en el software de simulacion proteus observamos que:
 
@@ -222,12 +242,4 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 
  RÚBRICA
 
-    ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
-
-
-
- 
- 
-
-
-
+![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
