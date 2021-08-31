@@ -258,12 +258,7 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
 
 * RESPUESTA A INTERROGANTES:
 
- * 1. Justifique los errores cometidos en las mediciones.
-
-   Es posible que los errores de mediciones deban a las tolerancias de error propias de los elementos del circuito o a los equipos de medición porque los datos obtenidos si   tienden a ser los correctos.
-
-
- * 2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+ * 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
    Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase  de  transición  y  fase  de  continua.  En  la  fase  de  estabilización,  se  producen  los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el circuito.  
 
@@ -276,7 +271,7 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
    𝑣(𝑡)=𝐿 * (𝑑𝑖(𝑡)/𝑑𝑡) =0  ; 𝑖(𝑡)=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒
 
 
- * 3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+ * 2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
    El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido.
 
@@ -289,7 +284,7 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
     Entonces se  puede representar al inductor como un elemento pasivo más en el circuito. 
 
 
- * 4. ¿Qué cree usted que ocurriría con el voltaje 𝑉௢ y la corriente de la resistencia en los
+ * 3. ¿Qué cree usted que ocurriría con el voltaje 𝑉௢ y la corriente de la resistencia en los
  circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
  distintos?
 
@@ -300,7 +295,7 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
    Si  la  impedancia capacitiva  o  resistiva  resulta  ser menor,  la  caída  de  tensión  Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor teóricamente.
 
 
- * 5. ¿Qué son los valores eficaces de voltaje y corriente?
+ * 4. ¿Qué son los valores eficaces de voltaje y corriente?
 
    Los  valores  eficaces  de  corriente  y  voltaje  son  aquellos  valores  equivalentes  en corriente  continua  es  decir  tendrá  el  mismo  comportamiento  respecto  a  potencia suministrada en el circuito. 
 
