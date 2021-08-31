@@ -94,7 +94,7 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
-Tabla de resultados:
+* Tabla de mediciones para el Circuito con Capacitores:
 
 | **Circuito con Capacitores** | <img src="https://latex.codecogs.com/svg.latex?0&space;H_Z" title="0 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?10&space;H_Z" title="10 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?50&space;H_Z" title="50 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?100&space;H_Z" title="100 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?500&space;H_Z" title="500 H_Z" /> | <img src="https://latex.codecogs.com/svg.latex?1000&space;H_Z" title="1000 H_Z" /> |
 | :---: | :----:| :----------: | :-----: | :------------------: | :-----: | :-----: | 
@@ -102,55 +102,12 @@ Tabla de resultados:
 | Multímetro | <img src="https://latex.codecogs.com/svg.latex?6.603V" title="6.603V" /> | <img src="https://latex.codecogs.com/svg.latex?7.527V" title="7.527V" /> | <img src="https://latex.codecogs.com/svg.latex?6.212V" title="6.212V" /> | <img src="https://latex.codecogs.com/svg.latex?4.369V" title="4.369V" /> | <img src="https://latex.codecogs.com/svg.latex?1.112V" title="1.112V" /> | <img src="https://latex.codecogs.com/svg.latex?0.636V" title="0.636V" /> | 
 | Multímetro | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | <img src="https://latex.codecogs.com/svg.latex?0.01A" title="0.01A" /> | <img src="https://latex.codecogs.com/svg.latex?0.05A" title="0.05A" /> | <img src="https://latex.codecogs.com/svg.latex?0.07A" title="0.07A" /> | <img src="https://latex.codecogs.com/svg.latex?0.09A" title="0.09A" /> | <img src="https://latex.codecogs.com/svg.latex?0.09A" title="0.09A" /> | 
 
-
-
-* RESULTADOS:
-
- * Los resultados y comportamiento visto mediante los diferentes tipos de circuito es atraves de un osciloscopio, se observa que:
-
- Frecuencia 100 Hz - Vp = 10 v - Circuito Rc:
-
- ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrc%20100%20hz.jpg)
-
- Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
-
- ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrl%20100%20hz.jpg)
-
-
- * Se observa los resultados:
-
-   *Para  cada  uno  de los  circuitos anteriores, elabore  una  tabla  con  los  resultados de las diferentes  mediciones  de  voltaje  realizadas  con  el  osciloscopio,   multímetro  y  las calculadas  en  el  trabajo  preparatorio.  Compare  y  comente  los  resultados  obtenidos tomando en cuenta las distintas frecuencias utilizadas.  Voltaje de pico = 10 [V]  
-
-     * Capacitores:
-
-   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.43%20PM.jpeg)
-
-     * Inductores:
-
-   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.23%20PM.jpeg)
-
-   *Corriente  y el voltaje realizados con el multímetro para calcular la reactancia  𝑋= 𝑉𝑜/𝐼  en cada una de las frecuencias y también para calcular los valores de 𝐿𝑒𝑞 y  𝐶𝑒𝑞 según sea el caso.  Anote  los  resultados  en  una  tabla  haciendo  constar  también  las  frecuencias. Comente los resultados.  𝑍=𝑅 + 𝑗𝑋
-
-     * Reactancia Circuito RC:
-
-   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rc.jpg)
-
-     * Reactancia Circuito RL:
-
-   ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rl.jpg)
+* Tabla de mediciones para el Circuito con Inductores:
 
 
 
-  * Calculos correspondientes para el experimento :
 
 
-       https://github.com/eddy90cg/Laboratorio_7/blob/main/Anexos/CamScanner%2002-23-2021%2012.37.pdf
-       
-      Formula a aplicar para el calculo del ERROR: 
-
-<img src="https://latex.codecogs.com/gif.latex?\mathrm{Porcentaje\&space;de\&space;Error\&space;en\&space;el\&space;Voltaje:}&space;\\&space;\\&space;%\&space;Error&space;=&space;\frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times&space;100" title="\mathrm{Porcentaje\ de\ Error\ en\ el\ Voltaje:} \\ \\ %\ Error = \frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times 100" />
-
-<img src="https://latex.codecogs.com/gif.latex?\mathrm{Porcentaje\&space;de\&space;Error\&space;en\&space;la\&space;Corriente:}&space;\\&space;\\&space;%\&space;Error&space;=&space;\frac{I_T(Teorico)-I_T(Practico)}{I_T(Teorico)}\times&space;100" title="\mathrm{Porcentaje\ de\ Error\ en\ la\ Corriente:} \\ \\ %\ Error = \frac{I_T(Teorico)-I_T(Practico)}{I_T(Teorico)}\times 100" />
 
 * RESPUESTA A INTERROGANTES:
 
