@@ -53,9 +53,9 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 
 Para realizar este laboratorio debes seguir los siguientes pasos:
 
-* Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+* Utilice el osciloscopio para observar el voltaje <img src="https://latex.codecogs.com/svg.latex?V_o" title="V_o" /> variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
  
-* Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+* Utilice un multímetro para medir el voltaje <img src="https://latex.codecogs.com/svg.latex?V_o" title="V_o" /> variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 * Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
@@ -80,18 +80,6 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RL%20PROTEUS.jpg)
 
 * EXPLICACION:
-
- * 1. Construya en el protoboard el circuito mostrado en la Figura 1.
-
-
-      a. Utilice el osciloscopio para observar el voltaje 𝑉௢ variando la frecuencia entre los
-      valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los valores pico de las ondas observadas.
-
-      b. Utilice un multímetro para medir el voltaje 𝑉௢ variando la frecuencia entre los valores
-      de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
-
-      c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-      frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 
  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%201%20circuito.jpg)
 
