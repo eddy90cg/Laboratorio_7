@@ -307,7 +307,7 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
   
 # 5. VIDEO
 
- *  link de  youtube: --------------
+https://youtu.be/XpqXto6gCPY
 
 # 6.	CONCLUSIONES
 
