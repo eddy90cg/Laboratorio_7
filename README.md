@@ -46,7 +46,7 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 
 * Mentefacto:
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/MENTEFACTO%20MARCO%20TEORICO.jpg)
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Mentefacto%20Laboratorio%207.jpg)
 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
@@ -72,26 +72,172 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
 | 2 | Bobinas de <img src="https://latex.codecogs.com/svg.latex?100mH" title="100mH" /> | 
 | 1 | Protoboard | 
 
+* Figura, Circuito Teórico compuesto de Capacitores:
 
-  Al realizar la explicacion previamiente señalada en la simulacion realizada para la experimentacion en el software de simulacion proteus observamos que:
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Circuito%20Capacitores.jpeg)
 
- ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RC%20PROTEUS.jpg)
+#### Mediciones realizadas con el Osciloscopio (V)
 
- ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RL%20PROTEUS.jpg)
+* Medición con 0 Hz
 
-* EXPLICACION:
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-0Hz-Osciloscopio.jpeg)
 
- ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%201%20circuito.jpg)
+* Medición con 10 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-10Hz-Osciloscopio.jpeg)
+
+* Medición con 50 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-50Hz-Osciloscopio.jpeg)
+
+* Medición con 100 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-100Hz-Osciloscopio.jpeg)
+
+* Medición con 500 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-500Hz-Osciloscopio.jpeg)
+
+* Medición con 1000 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-1000Hz-Osciloscopio.jpeg)
+
+#### Mediciones realizadas con el Multímetro (V)
+
+* Medición con 0 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-0Hz-Multimetro(V).jpeg)
+
+* Medición con 10 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-10Hz-Multimetro(V).jpeg)
+
+* Medición con 50 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-50Hz-Multimetro(V).jpeg)
+
+* Medición con 100 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-100Hz-Multimetro(V).jpeg)
+
+* Medición con 500 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-500Hz-Multimetro(V).jpeg)
+
+* Medición con 1000 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-1000Hz-Multimetro(V).jpeg)
+
+#### Mediciones realizadas con el Multímetro (I)
+
+* Medición con 0 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-0Hz-Multimetro(I).jpeg)
+
+* Medición con 10 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-10Hz-Multimetro(I).jpeg)
+
+* Medición con 50 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-50Hz-Multimetro(I).jpeg)
+
+* Medición con 100 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-100Hz-Multimetro(I).jpeg)
+
+* Medición con 500 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-500Hz-Multimetro(I).jpeg)
+
+* Medición con 1000 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Capacitores/Capacitores-1000Hz-Multimetro(I).jpeg)
 
 
- * 2. Construya el circuito mostrado en la Figura 2
+* Figura, Circuito Teórico compuesto de Inductores:
 
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Circuito%20Inductores.jpeg)
 
- ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%202%20circuito.jpg)
+#### Mediciones realizadas con el Osciloscopio (V)
 
+* Medición con 0 Hz
 
- Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-0Hz-Osciloscopio.jpeg)
 
+* Medición con 10 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-10Hz-Osciloscopio.jpeg)
+
+* Medición con 50 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-50Hz-Osciloscopio.jpeg)
+
+* Medición con 100 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-100Hz-Osciloscopio.jpeg)
+
+* Medición con 500 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-500Hz-Osciloscopio.jpeg)
+
+* Medición con 1000 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-1000Hz-Osciloscopio.jpeg)
+
+#### Mediciones realizadas con el Multímetro (V)
+
+* Medición con 0 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-0Hz-Multimetro(V).jpeg)
+
+* Medición con 10 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-10Hz-Multimetro(V).jpeg)
+
+* Medición con 50 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-50Hz-Multimetro(V).jpeg)
+
+* Medición con 100 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-100Hz-Multimetro(V).jpeg)
+
+* Medición con 500 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-500Hz-Multimetro(V).jpeg)
+
+* Medición con 1000 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-1000Hz-Multimetro(V).jpeg)
+
+#### Mediciones realizadas con el Multímetro (I)
+
+* Medición con 0 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-0Hz-Multimetro(I).jpeg)
+
+* Medición con 10 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-10Hz-Multimetro(I).jpeg)
+
+* Medición con 50 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-50Hz-Multimetro(I).jpeg)
+
+* Medición con 100 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-100Hz-Multimetro(I).jpeg)
+
+* Medición con 500 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-500Hz-Multimetro(I).jpeg)
+
+* Medición con 1000 Hz
+
+![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Imagenes%20Laboratorio%207/Inductores/Inductores-1000Hz-Multimetro(I).jpeg)
+
+  
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
 * Tabla de mediciones para el Circuito con Capacitores:
@@ -109,9 +255,6 @@ Para realizar este laboratorio debes seguir los siguientes pasos:
 | **Osciloscopio** | <img src="https://latex.codecogs.com/svg.latex?2.46V" title="2.46V" /> | <img src="https://latex.codecogs.com/svg.latex?314.34mV" title="314.34mV" /> | <img src="https://latex.codecogs.com/svg.latex?1.55V" title="1.55V" /> | <img src="https://latex.codecogs.com/svg.latex?3V" title="3V" /> | <img src="https://latex.codecogs.com/svg.latex?8.44V" title="8.44V" /> | <img src="https://latex.codecogs.com/svg.latex?9.49V" title="9.49V" /> | 
 | **Multímetro** | <img src="https://latex.codecogs.com/svg.latex?1.913V" title="1.913V" /> | <img src="https://latex.codecogs.com/svg.latex?0.215V" title="0.215V" /> | <img src="https://latex.codecogs.com/svg.latex?1.103V" title="1.103V" /> | <img src="https://latex.codecogs.com/svg.latex?2.084V" title="2.084V" /> | <img src="https://latex.codecogs.com/svg.latex?5.825V" title="5.825V" /> | <img src="https://latex.codecogs.com/svg.latex?6.607V" title="6.607V" /> | 
 | **Multímetro** | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | <img src="https://latex.codecogs.com/svg.latex?0.05A" title="0.05A" /> | <img src="https://latex.codecogs.com/svg.latex?0.01A" title="0.01A" /> | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | <img src="https://latex.codecogs.com/svg.latex?0.04A" title="0.04A" /> | <img src="https://latex.codecogs.com/svg.latex?0.02A" title="0.02A" /> | 
-
-
-
 
 * RESPUESTA A INTERROGANTES:
 
